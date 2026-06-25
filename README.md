@@ -14,6 +14,7 @@ Beyond the technical aspects of AI, I'm fascinated by the human side of intellig
 I'm always excited by opportunities to bridge cutting-edge research with impactful applications and to better understand how intelligent systems can augment human creativity and decision-making.
 
 🌐 **Website:** [shndap.github.io](https://shndap.github.io?utm_source=chatgpt.com)
+
 📫 **Portfolio & Projects:** Explore my research, projects, and writing on my personal website.
 
 
@@ -31,7 +32,5 @@ I'm always excited by opportunities to bridge cutting-edge research with impactf
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://komarev.com/ghpvc/?username=shndap&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
